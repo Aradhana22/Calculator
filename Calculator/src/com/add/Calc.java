@@ -7,7 +7,7 @@ public class Calc {
 		int a=0;
 		int b=8;
 		int c= a+b;
-		System.out.println("addition of a and b is "+c);
+		System.out.println("hi aradhana addition of a and b is "+c);
 	}
 	
 	public static void main(String[] args) {
